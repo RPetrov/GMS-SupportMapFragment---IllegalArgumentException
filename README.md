@@ -1,4 +1,4 @@
-# GMS-SupportMapFragment---IllegalArgumentException
+# GMS SupportMapFragment -> IllegalArgumentException
 Application for demonstration IllegalArgumentException in com.google.android.gms:play-services-maps:17.0.1
 
 ### Issue: https://issuetracker.google.com/issues/218346034
